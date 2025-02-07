@@ -1,8 +1,14 @@
-# 👋 Hi, I'm YuOne (유일) 
+<h1 align="center">👋 Hi, I'm YuOne (유일) </h1>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuone2001@gmail.com)
+<p align="center">
+  <a href="mailto:yuone2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+<p align="center">
+  yuone2001@gmail.com
+</p>
 
-**yuone2001@gmail.com**
 
 ---
 
